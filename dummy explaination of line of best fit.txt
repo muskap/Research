@@ -1,0 +1,3 @@
+Dummy Explaination:
+
+The training set when evaluated by the user and the designer for different sensorial attributes results in corrosponding scatter plots. In order to derive meaning of the general trend of the data; which, in this case is the relation between the designer rating and user rating, a line is passed through the data known as the 'Line of Best Fit'. The existent and the expression of trend between two properties can be done conviniently using the line of best fit.
